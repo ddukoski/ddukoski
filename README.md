@@ -12,7 +12,7 @@
          _\ _\           / /   | (_| | (_| | |_| |   | (_) \__ |   <| |        |  Java,
          `\ \           /_/     \__,_|\__,_|\__,_|_|\_\___/|___|_|\_|_|        |  Python.
           _\_\                                                                In that order.
-          `\\
+          `\\       Aside from Computer Science, I am very passionate about Metal/Rock music, aviation and mathematics.
             \\
         -.'.`\.'.-                                                        
 ```
