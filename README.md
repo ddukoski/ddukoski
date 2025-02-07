@@ -5,9 +5,9 @@
      _, .--.
     (  / (  '-.
     .-=-.    ) -.
-   /   (  .' .   \      __          _     _       _             _    _           Welcome to my profile, my name is David.
-   \ ( ' ,_) ) \_/      \ \        | |   | |     | |           | |  (_)          If you would like to contribute to any
-    (_ , /\  ,_/         \ \     __| | __| |_   _| | _____  ___| | ___           of my repositories, please send me message.     
+   /   (  .' .   \      __          _     _       _             _    _        Welcome to my profile, my name is David.
+   \ ( ' ,_) ) \_/      \ \        | |   | |     | |           | |  (_) 
+    (_ , /\  ,_/         \ \     __| | __| |_   _| | _____  ___| | ___     
       '--\ `\--`          > >   / _` |/ _` | | | | |/ / _ \/ __| |/ | |
          _\ _\           / /   | (_| | (_| | |_| |   | (_) \__ |   <| |
          `\ \           /_/     \__,_|\__,_|\__,_|_|\_\___/|___|_|\_|_|
