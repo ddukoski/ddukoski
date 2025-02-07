@@ -1,5 +1,3 @@
-# Welcome to My Profile
-
 <div style="background-color: #2e3b4e; color: #e0f7ff; padding: 10px; border-radius: 10px;">
 <pre style="font-family: monospace; line-height: 1.5em;">
      _, .--.
