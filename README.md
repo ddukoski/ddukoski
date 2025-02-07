@@ -1,14 +1,13 @@
-<p style="font-size: 24px; color: #e0f7ff; text-shadow: 0 0 5px #e0f7ff, 0 0 10px #e0f7ff, 0 0 15px #e0f7ff, 0 0 20px #e0f7ff, 0 0 25px #e0f7ff, 0 0 30px #e0f7ff, 0 0 35px #e0f7ff;">
-Welcome to my profile, my name is David.
+
 </p>
 
 ```
      _, .--.
     (  / (  '-.
     .-=-.    ) -.
-   /   (  .' .   \      __          _     _       _             _    _ 
-   \ ( ' ,_) ) \_/      \ \        | |   | |     | |           | |  (_)       
-    (_ , /\  ,_/         \ \     __| | __| |_   _| | _____  ___| | ___                
+   /   (  .' .   \      __          _     _       _             _    _           Welcome to my profile, my name is David.
+   \ ( ' ,_) ) \_/      \ \        | |   | |     | |           | |  (_)          If you would like to contribute to any
+    (_ , /\  ,_/         \ \     __| | __| |_   _| | _____  ___| | ___           of my repositories, please send me message.     
       '--\ `\--`          > >   / _` |/ _` | | | | |/ / _ \/ __| |/ | |
          _\ _\           / /   | (_| | (_| | |_| |   | (_) \__ |   <| |
          `\ \           /_/     \__,_|\__,_|\__,_|_|\_\___/|___|_|\_|_|
