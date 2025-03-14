@@ -13,7 +13,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddukoski&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ddukoski's Top Languages" />
       </td>
       <td valign="top" width="49%" style="padding:10px; text-align:center; border-radius:10px; background-color:#2f343f;">
-        <h3>Technologies I Use</h3>
         <div style="display: flex; flex-wrap: wrap; justify-content: center;">
           <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
           <img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
