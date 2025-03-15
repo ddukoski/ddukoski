@@ -8,11 +8,6 @@
       </td>
       <td valign="top" style="padding:20px; text-align:center; border-radius:10px; background-color:#2f343f; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
         <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ddukoski&theme=dark&hide_border=true" alt="ddukoski's Streak Stats" />
-        </div>
-      </td>
-      <td valign="top" style="padding:20px; text-align:center; border-radius:10px; background-color:#2f343f; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
-        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddukoski&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="ddukoski's Top Languages" />
         </div>
       </td>
