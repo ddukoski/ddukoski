@@ -46,10 +46,11 @@
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
           <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
           <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-          <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET" />
+          <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET Core" />
           <img src="https://img.shields.io/badge/-OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
         </div>
       </td>
     </tr>
   </table>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ddukoski&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
