@@ -51,6 +51,6 @@
         </div>
       </td>
     </tr>
+    
   </table>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ddukoski&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
