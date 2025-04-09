@@ -51,6 +51,10 @@
         </div>
       </td>
     </tr>
-    
   </table>
 </div>
+
+<div style="text-align: center; margin-top: 20px;">
+  <img src="https://leetcard.jacoblin.cool/davidduko?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats" />
+</div>
+
