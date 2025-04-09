@@ -43,16 +43,16 @@
         </div>
       </td>
       <td style="text-align: center; background-color:#2f343f; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET Core" />
-    <img src="https://img.shields.io/badge/-OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
-    <img src="https://img.shields.io/badge/-OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  </div>
-</td>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+          <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+          <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+          <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET Core" />
+          <img src="https://img.shields.io/badge/-OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+          <img src="https://img.shields.io/badge/-OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+        </div>
+      </td>
 
-    </tr>
+
   </table>
 </div>
 
