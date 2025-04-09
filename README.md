@@ -54,7 +54,18 @@
   </table>
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
-  <img src="https://leetcard.jacoblin.cool/davidduko?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats" />
+<div align="center">
+  <table>
+    <tr>
+      <th style="text-align: center; color: white;">LeetCode Problems</th>
+    </tr>
+    <tr>
+       <td style="text-align: center; background-color:#2f343f; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+            <img src="https://leetcard.jacoblin.cool/davidduko?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
