@@ -39,7 +39,8 @@
           <img src="https://img.shields.io/badge/-TensorFlow%20Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Keras" />
           <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
           <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-          <img src="https://img.shields.io/badge/-NumPy LinAlg-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+          <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+          <img src="https://img.shields.io/badge/-SciPy Stats-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
         </div>
       </td>
       <td style="text-align: center; background-color:#2f343f; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
