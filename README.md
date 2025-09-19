@@ -32,6 +32,7 @@
           <img src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
           <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
           <img src="https://img.shields.io/badge/-Neo4j%20Cypher-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j Cypher" />
+          <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
         </div>
       </td>
       <td style="text-align: center; background-color:#2f343f; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
@@ -46,15 +47,14 @@
       </td>
       <td style="text-align: center; background-color:#2f343f; padding: 10px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
         <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-          <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
           <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-          <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+          <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
           <img src="https://img.shields.io/badge/-OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
           <img src="https://img.shields.io/badge/-OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
         </div>
       </td>
-
-
+    </tr>
   </table>
 </div>
 
@@ -72,4 +72,3 @@
     </tr>
   </table>
 </div>
-
