@@ -1,20 +1,3 @@
-<div align="center">
-  <table style="width: 100%; border-collapse: separate; border-spacing: 20px;">
-    <tr>
-      <td valign="top" style="padding:20px; text-align:center; border-radius:10px; background-color:#2f343f; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
-        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
-          <img src="https://github-readme-stats.vercel.app/api?username=ddukoski&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="ddukoski's GitHub Stats" />
-        </div>
-      </td>
-      <td valign="top" style="padding:20px; text-align:center; border-radius:10px; background-color:#2f343f; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
-        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddukoski&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="ddukoski's Top Languages" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div style="margin-top: 20px;">
   <table style="width: 100%;">
     <tr>
